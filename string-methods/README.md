@@ -20,3 +20,7 @@
 4.  String replace()
 
     The replace() method replaces a specified phrase with another specified phrase.
+
+5.  String title()
+
+    Make the first letter in each word upper case:
