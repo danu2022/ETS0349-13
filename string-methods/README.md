@@ -24,3 +24,7 @@
 5.  String title()
 
     Make the first letter in each word upper case:
+
+6 String count()
+
+    The count() method returns the number of times a specified value appears in the string.
