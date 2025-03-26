@@ -25,6 +25,10 @@
 
     Make the first letter in each word upper case:
 
-6 String count()
+6.  String count()
 
     The count() method returns the number of times a specified value appears in the string.
+
+7.  String split()
+
+    The split() method splits a string into a list.
