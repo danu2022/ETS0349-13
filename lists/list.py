@@ -15,3 +15,11 @@ print(myList) # output ['python', 'c#', 'javascript', 'go']
 myList.remove("c#")
 
 print(myList) # output ['python', 'javascript', 'go']
+
+#Insert the value "html" as the third element of the list:
+myList.insert(2, "html")
+print(myList) # output ['python', 'javascript', 'html', 'go']
+
+#Remove the last element of the list
+myList.pop()
+print(myList) # output ['python', 'javascript', 'html']

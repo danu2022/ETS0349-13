@@ -5,3 +5,11 @@
     Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
 
     Lists are created using square brackets:
+
+# List methods
+
+    #insert()
+    The insert() method inserts the specified value at the specified position.
+
+    #pop()
+    The pop() method removes the element at the specified position.
