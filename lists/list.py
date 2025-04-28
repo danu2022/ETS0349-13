@@ -23,3 +23,12 @@ print(myList) # output ['python', 'javascript', 'html', 'go']
 #Remove the last element of the list
 myList.pop()
 print(myList) # output ['python', 'javascript', 'html']
+
+#Reverse the order of the list:
+myList.reverse()
+print(myList) # output ['html', 'javascript', 'python']
+
+
+numList = [5, 9, 1, 3, 10]
+numList.sort()
+print(numList) # output [1, 3, 5, 9, 10]

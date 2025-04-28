@@ -13,3 +13,9 @@
 
     #pop()
     The pop() method removes the element at the specified position.
+
+    #reverse()
+    The reverse() method reverses the sorting order of the elements.
+
+    #sort()
+    The sort() method sorts the list ascending by default.
